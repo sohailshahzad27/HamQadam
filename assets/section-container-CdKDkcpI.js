@@ -1,0 +1,1 @@
+import{j as n,c as e}from"./index-DXf8nAVY.js";function c({children:s,className:t,id:a}){return n.jsx("section",{id:a,className:e("py-16",t),children:n.jsx("div",{className:"container mx-auto px-4",children:s})})}export{c as S};
